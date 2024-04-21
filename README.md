@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
+<h1 align="center">Hi ^_^ Everyone , I'm Abhishek 🫡 </h1>
 <h3 align="center">Student and Tech enthusiast who is trying to explore digital possibilities.</h3>
 
 - 🌱 I’m currently learning **DSA in c++**
